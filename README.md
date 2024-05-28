@@ -28,10 +28,8 @@ WHERE CONDITION = NET
 
 ```
 
-
+![](Akpegi Lucky.jpeg)
 
 |NAME |DEPT |MARITAL STATUS |NETWORTH|
-
-|----- |----- |----- |
-
+|----- |----- |-------------|--------|
 |LUCKY |MASS COMM |CONFUSED |20BILLION |
