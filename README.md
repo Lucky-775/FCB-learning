@@ -28,7 +28,8 @@ WHERE CONDITION = NET
 
 ```
 
-![](Akpegi Lucky.jpeg)
+![](May28.png)
+
 
 |NAME |DEPT |MARITAL STATUS |NETWORTH|
 |----- |----- |-------------|--------|
