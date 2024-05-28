@@ -1,6 +1,6 @@
-# FCB-learning
+# **FCB-learning**
 
-## Learning-outline
+## **Learning-outline**
 
 This is only a brief analysis of the little things i have been learning about. This project shows that for the last two class, i have been able to do this work. After a good survey of the whole class, this is to show that data anaylsis has been good.
 
@@ -10,7 +10,7 @@ For this work to be done, i had to get my data from diffrent sources and here is
 
 ## TOOLS USED
 
--Ms Excel for data cleaning [Download here](https://microsoft.com)
+-**Ms Excel** for data cleaning [Download here](https://microsoft.com)
 
 -Power BI
 
